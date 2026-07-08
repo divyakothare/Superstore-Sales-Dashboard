@@ -11,6 +11,9 @@ This project analyzes Superstore sales data using SQL Server and Power BI. The d
 # Dataset
 Sample Superstore Dataset
 
+# Dashboard Preview
+![Dashboard](Dashboard/dashboard.png)
+
 # Dashboard KPIs
 - Total Sales
 - Total Orders
@@ -34,8 +37,16 @@ Sample Superstore Dataset
 
 # Repository Structure
 Dashboard - Power BI file
+   Superstore Sales Dashboard.pbix
+   dashboard.png
+Dataset
+   Sample- Superstore.csv.xlsx
 SQL - SQL script
-Dataset - Sample Superstore datase
+   01 Data_Cleaning.sql
+   02 Data_Understanding.sql
+   03 Sales_Analysis.sql
+   04 VIEWS.sql
+
 
 # Author
 Divya Kothare
